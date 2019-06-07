@@ -1,4 +1,4 @@
-# AMOIGO
+# AMIGO
 ######A Virtual Friend
 
 ### Key Features:
