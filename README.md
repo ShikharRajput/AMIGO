@@ -3,10 +3,10 @@
 
 ### Key Features:
 * Voice Input & Output
-* Web Scrolling
+* Web Crawling
 * Web Scrapping
 * APIs for
-  * Music Playback
+  * Qoutes
   * Weather
   * Calling
   * Latest News
