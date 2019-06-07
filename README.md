@@ -1,5 +1,5 @@
 # AMIGO
-######A Virtual Friend
+###### A Virtual Friend
 
 ### Key Features:
 * Voice Input & Output
